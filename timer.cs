@@ -1,5 +1,11 @@
 ##Format
 //Time format is in seconds
-time1(3);
+game1{
+  timer1(3);
+  timer2(5);
+}
 
-time2(5);
+game2{
+  timer1(3);
+  timer2(5);
+}
