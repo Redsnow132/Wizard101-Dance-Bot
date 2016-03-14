@@ -129,3 +129,67 @@ game16{
   pattern4:right,right,left,up,left,up
   pattern5:down,left,right,down,right,down,left
 }
+
+game17{
+  pattern1:left,right,left
+  pattern2:down,down,right,down
+  pattern3:right,up,down,right,left
+  pattern4:right,up,up,left,right,right
+  pattern5:right,down,down,right,up,left,right
+}
+
+game18{
+  pattern1:down,up,down
+  pattern2:down,up,left,down
+  pattern3:right,down,up,right,right
+  pattern4:left,down,left,down,left,down
+  pattern5:left,down,up,down,up,up,right
+}
+
+game19{
+  pattern1:left,up,left
+  pattern2:right,up,down,right
+  pattern3:right,left,up,left,left
+  pattern4:right,right,left,up,down,down
+  pattern5:up,up,right,up,down,left,left
+}
+
+game20{
+  pattern1:down,down,up
+  pattern2:down,left,right,up
+  pattern3:right,up,down,down,down
+  pattern4:left,left,down,up,left,right
+  pattern5:down,up,down,right,left,up,down
+}
+
+game21{
+  pattern1:down,right,left
+  pattern2:right,down,up,up
+  pattern3:down,down,right,right,left
+  pattern4:right,up,left,left,right,left
+  pattern5:right,up,right,down,right,right,down
+}
+
+game22{
+  pattern1:up,left,up
+  pattern2:right,up,up,right
+  pattern3:right,down,up,down,down 
+  pattern4:down,down,right,right,left,up
+  pattern5:down,right,right,down,left,right,right
+}
+
+game23{
+  pattern1:right,right,down
+  pattern2:up,left,left,left
+  pattern3:down,up,left,left,up
+  pattern4:left,right,left,left,up,down
+  pattern5:right,down,up,right,right,down,right
+}
+
+game24{
+  pattern1:right,left,up
+  pattern2:right,right,left,left
+  pattern3:down,left,down,down,left
+  pattern4:up,up,right,right,down,up
+  pattern5:left,up,down,right,down,right,left
+}
