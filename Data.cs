@@ -1,6 +1,4 @@
  game1{
- pattern1:up,down,down
- pattern2:down,up,up,up
  pattern1:right,down,left
  pattern2:up,left,right,left
  pattern3:right,down,down,down,down
@@ -9,8 +7,6 @@
  }
   
 game2{
- pattern1:up,down,down
- pattern2:down,up,up,up
  pattern1:left,up,down
  pattern2:up,up,left,left
  pattern3:down,right,left,up,up
