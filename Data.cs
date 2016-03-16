@@ -321,3 +321,43 @@ game40{
   pattern4:down,left,left,down,left,down
   pattern5:left,down,right,right,up,left,right
 }
+
+game41{
+  pattern1:left,left,up
+  pattern2:left,right,up,right
+  pattern3:left,down,right,left,left
+  pattern4:right,up,right,left,left,left
+  pattern5:up,left,down,down,right,up,left
+}
+
+game42{
+  pattern1:left,up,down
+  pattern2:right,left,right,down
+  pattern3:up,up,down,right,left
+  pattern4:down,right,right,up,right,down
+  pattern5:right,right,left,down,right,right,left
+}
+
+game43{
+  pattern1:up,left,down
+  pattern2:left,up,up,down
+  pattern3:right,left,down,up,down
+  pattern4:down,up,left,up,right,up
+  pattern5:up,right,left,left,up,left,down
+}
+
+game45{
+  pattern1:right,up,right
+  pattern2:;eft,right,left,left
+  pattern3:left,up,left,up,left
+  pattern4:left,up,up,left,left,left
+  pattern5:left,down,right,right,right,down,left
+}
+
+game46{
+  pattern1:down,up,up
+  pattern2:right,left,down,up
+  pattern3:left,up,up,left,up
+  pattern4:left,down,down,down,left,left
+  pattern5:up,right,down,right,down,up,right
+}
